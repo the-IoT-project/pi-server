@@ -31,3 +31,9 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# Debug log from npm
+npm-debug.log
+
+# environment variables
+*.env
